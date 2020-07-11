@@ -1,0 +1,23 @@
+{
+    "Cars": [{
+            "id": "15628",
+            "brand": "BMW"
+        },
+        {
+            "id": "64829",
+            "brand": "Ferrari"
+        },
+        {
+            "id": "42876",
+            "brand": "Mercedes"
+        },
+        {
+            "id": "34796",
+            "brand": "Fiat"
+        },
+        {
+            "id": "54268",
+            "brand": "Ford"
+        }
+    ]
+}
