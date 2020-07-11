@@ -1,0 +1,12 @@
+<h1>Welcome to CarsApp</h1>
+<br>
+<div>
+  <button (click)="getCars()">Get Cars</button>
+<div>
+<br>
+<div *ngIf="verification">
+  <li *ngFor="let car of cars$ | async">
+    {{car.id}} - {{car.brand}}
+  </li>
+</div>
+
